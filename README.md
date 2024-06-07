@@ -1,4 +1,5 @@
-## Hi there 👋
+## Oii galerinha, sejam bem-vindos!!👋✨
+## Meu nome é Maria, e estarei usando o meu perfil para realizar atividades escolares😄
 
 <!--
 **duda-rocha/duda-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
